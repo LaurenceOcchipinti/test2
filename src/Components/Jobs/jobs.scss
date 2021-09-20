@@ -1,0 +1,85 @@
+
+// DIV X 3
+// .job__list1 {
+//     background-color: white;
+//     border: solid;
+//     border-width: 1px;
+// }
+
+// .job__list2 {
+//     background-color: white;
+//     border: solid;
+//     border-width: 1px;
+// }
+
+// .job__list3 {
+//     background-color: white;
+//     border: solid;
+//     border-width: 1px;
+// }
+
+
+.job {
+    background-color:antiquewhite;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+
+.bloc1, .bloc2, .bloc3 {
+  flex-direction:column;
+    }
+
+    
+
+
+.div1, .div2, .div3, .div4, .div5, .div6, .div7, .div8, .div9 {
+    height:12em;
+    width: 12em;
+    background-color: white;
+    border: solid;
+    border-width: 8px;
+    padding: 1em;
+    margin: 0.5em;
+    // align-items: ;
+
+}
+
+
+.div1  {
+    border-color:red;
+}
+
+.div2  {
+    border-color:green;
+   }
+
+.div3 {
+    border-color:yellow;
+   }
+
+.div4  {
+    border-color:deepskyblue;
+   }
+
+.div5  {
+    border-color:pink;
+   }
+
+.div6  {
+    border-color:red;
+   }
+
+.div7  {
+    border-color:green;
+   }
+
+.div8  {
+    border-color:yellow;
+   }
+
+.div9  {
+    border-color:deepskyblue;
+   }
